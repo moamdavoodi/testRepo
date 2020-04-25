@@ -11,6 +11,7 @@ public class A {
 //        obj2.setMoney(200);
 //        System.out.println(((SubClass) obj1).getMoney());
 //        System.out.println();
+        System.out.println("hi");
     }
 
 }
